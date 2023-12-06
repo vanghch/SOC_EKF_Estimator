@@ -1,0 +1,7 @@
+/Embedded_Project/MDK-ARM/*
+!/Embedded_Project/MDK-ARM/RTE
+!/Embedded_Project/MDK-ARM/BMS_v1.uvprojx
+!/Embedded_Project/MDK-ARM/EventRecorderStub.scvd
+!/Embedded_Project/MDK-ARM/startup_stm32f103xb.lst
+!/Embedded_Project/MDK-ARM/startup_stm32f103xb.s
+/Embedded_Project/.mxproject
